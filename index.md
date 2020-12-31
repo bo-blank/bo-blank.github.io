@@ -16,6 +16,16 @@ Was ist die Idee von Markdown? Ganz einfach: Tippen statt klicken, wenn es um Te
 
 **Bold** and _Italic_ and `Code` text
 
+Das ist ein neuer Commit:
+
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer]
+
+---
+
 [Link](url) and ![Image](src)
 
 ```
